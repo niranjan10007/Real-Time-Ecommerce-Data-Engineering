@@ -1,4 +1,4 @@
-# Real-Time E-Commerce Clickstream & Analytics Data Engineering Platform
+# Real-Time E-Commerce Clickstream & Cart Abandonment Data Engineering Platform
 
 > A real-time data engineering platform that simulates e-commerce customer activity, streams events through Apache Kafka, processes them with Apache Spark Structured Streaming, and transforms them through a Bronze → Silver → Gold architecture for business analytics.
 
